@@ -45,7 +45,7 @@ function App() {
       </section>
 
       <footer className="footer">
-        &copy; 2025 Divya Mandapalli | All Rights Reserved.
+        &copy; 2025 Mandapalli Divya | All Rights Reserved.
       </footer>
     </div>
   );
